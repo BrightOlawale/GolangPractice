@@ -1,6 +1,6 @@
-# Golang Practice - 2023
+# My Golang Practice 
 
-## 0xHelo
+## 0xHello
 - Print "Hello World" in Golang and understandig the print functions in Golang.
 
 ## 0xVariables
