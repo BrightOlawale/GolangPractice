@@ -24,3 +24,15 @@
 ## 0xPointers
 - Understanding Pointers in Golang, how they affect the memory, how to use them and how to get the address of a variable
 
+## 0xStructs
+- Getting familiar with Structs in Golang, defining them and how capitalizing a struct field makes it public
+
+## 0xSlices
+- Using slices and how it is different from Arrays, how to append to a slice and how to delete from a slice
+
+## 0xSwitchCase
+- Working with switch case in Golang, how to use it and how to use it with a condition
+
+## 0xIfele
+- Working with if else in Golang, how to use it and how to use it with a condition
+
