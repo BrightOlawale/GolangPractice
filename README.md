@@ -14,3 +14,13 @@
 
 ## 0xConversion
 - Learnt how to convert the type recieved or parsed into another type
+
+## 0xArrays
+- Understanding Array in Golang, how to are defined and how to use them
+
+## 0xMaps
+- Understanding Maps in Golang, how they work like a python dictionary with key and value
+
+## 0xPointers
+- Understanding Pointers in Golang, how they affect the memory, how to use them and how to get the address of a variable
+
