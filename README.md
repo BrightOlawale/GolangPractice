@@ -36,3 +36,14 @@
 ## 0xIfele
 - Working with if else in Golang, how to use it and how to use it with a condition
 
+## 0xLoops
+- Using for loops in Go, the only loop in Go, how to use it and how to use it with a condition
+
+## 0xFunctions
+- Working with functions in Go, defining them and passing arguments to them
+
+## 0xDefer
+- Using defer the defer keyword in Go, and understanding how they work
+
+## 0xMethods
+- How to create a method in Go using structs and how to use them
