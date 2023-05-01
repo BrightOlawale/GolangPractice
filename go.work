@@ -1,6 +1,7 @@
 go 1.20
 
 use (
+	./0XWebRequest
 	./0xArrays
 	./0xConversion
 	./0xDefer
